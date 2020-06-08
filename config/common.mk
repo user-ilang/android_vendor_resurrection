@@ -83,6 +83,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     DeskClock \
     NexusLauncher \
+    Phonograph \
     Wallpaper
 
 # DU Utils Library
@@ -176,25 +177,16 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     ResurrectionOTA \
     ResurrectionStats \
-    Trebuchet \
     AudioFX \
-    CMFileManager \
-    Eleven \
     LockClock \
     CMSettingsProvider \
     ExactCalculator \
-    Jelly \
     LiveLockScreenService \
     WeatherProvider \
     OmniStyle \
     OmniSwitch \
     OmniJaws \
     ThemeInterfacer
-
-
-# Exchange support
-PRODUCT_PACKAGES += \
-    Exchange2
 
 # Extra tools in CM
 PRODUCT_PACKAGES += \
